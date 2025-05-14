@@ -37,7 +37,7 @@ The implementation consists of two main classes:
 1. Clone the repository:
    
 ```bash
-git clone https://github.com/yourusername/huffman-compression.git
+git clone https://github.com/mariamelghandoor/Huffman-compressor.git
 ```
 
 2. Run the application:
